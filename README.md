@@ -22,7 +22,7 @@ At the moment, I am most intrigued by front-end developmnent and learning more a
 ## Contact Me
 - **LinkedIn**: [Jonah Barofski] (https://www.linkedin.com/in/jonah-barofski-b306b3360/)
 - **Email**: jbarofski@gmail.com
-   **Portfolio**: [Coming Soon - Fall 2026!]
+- **Portfolio**: [Coming Soon - Fall 2026!]
 
 ## Fun Facts
 - My favorite hobby is to play sports. I like to play and watch basketball the most.
