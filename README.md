@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a computer science student with an interest in web development to create functional and useful applications. 
-At the moment, I am most intrigued by front-end developmnent and learning more about JavaScript. 
+I'm a computer science graduate with an interest in data analysis and engineering. I want to help businesses and companies
+by providing them insight on data. At the moment, I am studying and learning how to create projects. 
 
 ## Projects
 - [Coming Soon]
