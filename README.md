@@ -7,15 +7,15 @@ by providing them insight on data. At the moment, I am studying and learning how
 
 ## Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript, Python, C
-- **Currently Learning**: React, Node.js
-- **Tools**: VS Code, GitHub, Vercel, Render
-- **Interests**: Clean design and code
+- **Currently Learning**: SQL, Python
+- **Tools**: VS Code, GitHub
+- **Interests**: Analyze data, learn how data is used
 
 ## What I'm Currently Working On
-- Learnin how use different tools, such as React and Node.js, to strengthen my projects
-- Building applications to give me more experience and improve my skills
-- Putting everything I have learned together for developing websites
-
+- Learning how to use SQL and Python for data analysis
+- Building projects to give me more experience and improve my skills
+- Putting everything I have learned together for analyzing data
+  
 ## Contact Me
 - **LinkedIn**: [Jonah Barofski] (https://www.linkedin.com/in/jonah-barofski-b306b3360/)
 - **Email**: jbarofski@gmail.com
