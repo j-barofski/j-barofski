@@ -3,10 +3,7 @@ I'm a computer science student with an interest in web development to create fun
 At the moment, I am most intrigued by front-end developmnent and learning more about JavaScript. 
 
 ## Projects
-- PlayPickup: Find and join with others in sporting events.
-  - GitHub: https://github.com/j-barofski/PickupSportsCapstoneProject
-  - Vercel (Front-end): https://pickup-sports-capstone-project.vercel.app/
-  - Render (Back-end): https://play-pickup-capstone-project.onrender.com/
+- [Coming Soon]
 
 ## Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript, Python, C
