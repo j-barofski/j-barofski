@@ -3,7 +3,7 @@ I'm a computer science graduate with an interest in data analysis and engineerin
 by providing them insight on data. At the moment, I am studying and learning how to create projects. 
 
 ## Projects
-- [Coming Soon]
+- Chocolate Sales Analysis w/ Excel (https://github.com/j-barofski/Chocolate-Sales-Analysis-Excel-)
 
 ## Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript, Python, C
