@@ -19,7 +19,7 @@ by providing them insight on data. At the moment, I am studying and learning how
 ## Contact Me
 - **LinkedIn**: [Jonah Barofski] (https://www.linkedin.com/in/jonah-barofski-b306b3360/)
 - **Email**: jbarofski@gmail.com
-- **Portfolio**: https://sites.google.com/view/jonahbarofski?usp=sharing 
+- **Portfolio**: (https://sites.google.com/view/jonahbarofski?usp=sharing) 
 
 ## Fun Facts
 - My favorite hobby is to play sports. I like to play and watch basketball the most.
