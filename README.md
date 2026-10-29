@@ -4,6 +4,7 @@ by providing them insight on data. At the moment, I am studying and learning how
 
 ## Projects
 - Chocolate Sales Analysis w/ Excel (https://github.com/j-barofski/Chocolate-Sales-Analysis-Excel-)
+- Fantasy Football Analysis using Tableau (https://github.com/j-barofski/Fantasy-Football-Analysis-Tableau-)
 
 ## Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript, Python, C
